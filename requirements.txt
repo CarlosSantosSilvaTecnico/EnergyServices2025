@@ -5,4 +5,4 @@ dash-table==5.0.0
 Flask==2.2.3
 importlib-metadata==6.1.0
 plotly==5.13.1
-guicorn
+gunicorn
